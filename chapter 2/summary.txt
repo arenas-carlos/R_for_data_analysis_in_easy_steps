@@ -1,0 +1,32 @@
+Summary
+A variable is a container in which a value may be stored for subsequent use in an R Script program.
+
+The name of a variable is a unique identifier that must avoid the R keywords.
+
+An identifier name in R must begin with a letter (or a period followed by a letter) and may subsequently contain only letters, digits, periods, or underscore characters.
+
+Identifier names are case-sensitive, and those with multiple words can separate each word with a period character.
+
+Values are assigned to variables in R programming using the <- assignment operator.
+
+The R interpreter ignores whitespace and ignores comments on lines that begin with a # hash character.
+
+The four main data types in R programming are character, double, integer, and Boolean.
+
+Each R variable is a vector that can contain multiple values.
+
+A vector may only contain values of the same data type, but a list structure may contain values of mixed data types.
+
+A list is created by specifying values as a comma-separated list of arguments to the built-in list( ) function.
+
+Vectors and lists both store values within elements that are indexed starting at one.
+
+Single values in vectors and lists can be retrieved using the identifier name and an index number in [ ] square brackets.
+
+Single values in named elements can be retrieved using the identifier and element name separated by the $ operator.
+
+The built-in plot( ) function produces a scatter plot depicting data magnitude versus index.
+
+Data stored in any R structure creates an object in the RStudio environment.
+
+Help can be sought in RStudio on its Help tab, or using the help( ) function, or via the auto-completion popup box.
