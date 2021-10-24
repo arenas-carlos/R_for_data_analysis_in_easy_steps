@@ -35,7 +35,7 @@ result <- pets == animals
 # Output the returned vector of Boolean values
 cat("Element match?:", result, "\n")
 
-# Output the index numbers containg a TRUE value
+# Output the index numbers containig a TRUE value
 cat("At Index No:", which(result), "\n")
 
 # Finally matching values within any elements of the two vectors
